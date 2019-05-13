@@ -1,6 +1,14 @@
 # coursera-Tensorflow
-exercises from "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+
+<a href="https://ai.google/">
+  <img src="https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2.jpg" align="right" width="150">
+</a>
+
 > A collection of Courses, bookmarks, resources, articles for Machine Learning Beginners.
+
+exercises from "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+
+Feel free to [add something interesting](contributing.md) by pull request.
 
 | Site       | Course Name                                                                   | Time      | Status  | Difficulty   |
 | :--------- | :---------------------------------------------------------------------------- | :-------: | :-----: | :----------: |
